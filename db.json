@@ -1,12 +1,15 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "room": 202,
+  "ssid": "asddfg",
+  "pass": "qwe123",
+  "place": "東京",
+  "weather-icon": "https://weathernews.jp/onebox/img/wxicon/300.png",
+  "rain-percentage": 80,
+  "time": "123",
+  "weatherurl": "https://weathernews.jp/onebox/tenki/tokyo/",
+  "mainurl": "https://kawaroku.co.jp/archive/",
+  "mainjpg": "",
+  "qr1url": "https://kawaroku.co.jp/",
+  "qr2url": "https://kawaroku.co.jp/campaign/",
+  "qr3url": "https://twitter.com/KawarokuChannel"
 }
-
